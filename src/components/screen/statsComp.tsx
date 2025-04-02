@@ -4,7 +4,7 @@ export const StatsComponent = () => {
   return (
     <div className="px-6 mt-4">
       <p className="text-[16px] font-semibold">Comparison & stats</p>
-      <div className="grid grid-cols-12 mt-4">
+      <div className="grid grid-cols-12 mt-4 gap-4">
         <div className="grid col-span-6">
           <img
             alt="image"
